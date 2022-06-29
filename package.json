@@ -1,0 +1,15 @@
+{
+  "name": "discover-qa",
+  "version": "1.0.0",
+  "description": "Projeto de estudo com cypress",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "9.6.1"
+  },
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Jarbas Somonet",
+  "license": "MIT"
+}
