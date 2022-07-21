@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "josé da silva",
+        "cpf": "00697856709",
+        "email": "josesilva@gmail.com",
+        "whatsapp": "51992340953",
+        "address": {
+            "postalcode": "94170-244",
+            "street": "Travessa Itacolomi Dois",
+            "number": "156",
+            "details": "casa",
+            "district": "Santa Cruz",
+            "city_state": "Gravataí/RS"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "joão dos santos",
+        "cpf": "006978567@",
+        "email": "josesilva@gmail.com",
+        "whatsapp": "51992340953",
+        "address": {
+            "postalcode": "94170-244",
+            "street": "Travessa Itacolomi Dois",
+            "number": "15",
+            "details": "casa",
+            "district": "Santa Cruz",
+            "city_state": "Gravataí/RS"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "marcos antonio da silva",
+        "cpf": "63558518608",
+        "email": "marcos.gmail.com",
+        "whatsapp": "51996740953",
+        "address": {
+            "postalcode": "94170-244",
+            "street": "Travessa Itacolomi Dois",
+            "number": "156",
+            "details": "sala 201",
+            "district": "Santa Cruz",
+            "city_state": "Gravataí/RS"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+    
+}
